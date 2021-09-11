@@ -15,7 +15,7 @@ const App = () => {
     return (
         <GithubState>
             <AlertState>
-                <Router>
+                <Router basename='/github-finder-ghp'>
                     <div className='App'>
                         <Navbar icon='fab fa-github' title='Github-Finder' />
                         <div className='container'>
