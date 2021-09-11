@@ -1,4 +1,4 @@
-# github-finder-ghp
+# github-finder-githubPAges(ghp)
 
 github finder app deployed on ( github pages/ghp )
 
