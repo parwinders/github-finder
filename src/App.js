@@ -8,8 +8,7 @@ import About from "./components/pages/About";
 import Userpage from "./components/users/Userpage";
 import GithubState from "./context/github/GithubState";
 import AlertState from "./context/alert/AlertState";
-//FIXME better way to check node.env ?
-console.log("process.env.NODE_ENV", process.env.NODE_ENV);
+
 console.log("yesss");
 const App = () => {
     const [loading, setLoading] = useState(false);
@@ -17,13 +16,7 @@ const App = () => {
     return (
         <GithubState>
             <AlertState>
-                <Router
-                    basename={
-                        process.env.NODE_ENV === "production"
-                            ? "/github-finder-ghp"
-                            : "/"
-                    }
-                >
+                <Router basename='/github-finder-ghp'>
                     <div className='App'>
                         <Navbar icon='fab fa-github' title='Github-Finder' />
                         <div className='container'>
