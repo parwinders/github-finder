@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/github-finder-ghp/static/css/main.4b494ffe.chunk.css",
-    "main.js": "/github-finder-ghp/static/js/main.89c61067.chunk.js",
-    "main.js.map": "/github-finder-ghp/static/js/main.89c61067.chunk.js.map",
+    "main.js": "/github-finder-ghp/static/js/main.ee93b1dc.chunk.js",
+    "main.js.map": "/github-finder-ghp/static/js/main.ee93b1dc.chunk.js.map",
     "runtime-main.js": "/github-finder-ghp/static/js/runtime-main.a80d059f.js",
     "runtime-main.js.map": "/github-finder-ghp/static/js/runtime-main.a80d059f.js.map",
     "static/js/2.17f8bbc5.chunk.js": "/github-finder-ghp/static/js/2.17f8bbc5.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.a80d059f.js",
     "static/js/2.17f8bbc5.chunk.js",
     "static/css/main.4b494ffe.chunk.css",
-    "static/js/main.89c61067.chunk.js"
+    "static/js/main.ee93b1dc.chunk.js"
   ]
 }
