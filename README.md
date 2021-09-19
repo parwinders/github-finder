@@ -1,6 +1,6 @@
 #            github-finder-githubPages(ghp)
 
-how to use : just visit https://parwinders.github.io/github-finder-ghp/
+how to use : just visit deployed at:[https://parwinders.github.io/github-finder-ghp/]
 
 `clone` `download` and  then use/edit locally by : `npm run start`
  
